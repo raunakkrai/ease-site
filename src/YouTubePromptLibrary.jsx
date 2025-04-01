@@ -1,1 +1,3 @@
-// Paste your component here
+export default function YouTubePromptLibrary() {
+    // ...
+  }  
